@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "Circe";
+    src: url("Circe.eot");
+    src: url("Circe.eot?#iefix") format("embedded-opentype"),
+    url('Circe.woff2') format('woff2'),
+    url("Circe.woff") format("woff"),
+    url("Circe.ttf") format("truetype"),
+    url("Circe.svg#Circe") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "CirceBold";
+    src: url("CirceBold.eot");
+    src: url("CirceBold.eot?#iefix") format("embedded-opentype"),
+    url('CirceBold.woff2') format('woff2'),
+    url("CirceBold.woff") format("woff"),
+    url("CirceBold.ttf") format("truetype"),
+    url("CirceBold.svg#CirceBold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "CirceExtraBold";
+    src: url("CirceExtraBold.eot");
+    src: url("CirceExtraBold.eot?#iefix") format("embedded-opentype"),
+    url('CirceExtraBold.woff2') format('woff2'),
+    url("CirceExtraBold.woff") format("woff"),
+    url("CirceExtraBold.ttf") format("truetype"),
+    url("CirceExtraBold.svg#CirceExtraBold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Cervo-Medium";
+    src: url("Cervo-Medium.eot");
+    src: url("Cervo-Medium.eot?#iefix") format("embedded-opentype"),
+    url('Cervo-Medium.woff2') format('woff2'),
+    url("Cervo-Medium.woff") format("woff"),
+    url("Cervo-Medium.ttf") format("truetype"),
+    url("Cervo-Medium.svg#Cervo-Medium") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Cervo-Regular";
+    src: url("Cervo-Regular.eot");
+    src: url("Cervo-Regular.eot?#iefix") format("embedded-opentype"),
+    url('Cervo-Regular.woff2') format('woff2'),
+    url("Cervo-Regular.woff") format("woff"),
+    url("Cervo-Regular.ttf") format("truetype"),
+    url("Cervo-Regular.svg#Cervo-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "BERNIERDistressed-Regular";
+    src: url("BERNIERDistressed-Regular.eot");
+    src: url("BERNIERDistressed-Regular.eot?#iefix") format("embedded-opentype"),
+    url('BERNIERDistressed-Regular.woff2') format('woff2'),
+    url("BERNIERDistressed-Regular.woff") format("woff"),
+    url("BERNIERDistressed-Regular.ttf") format("truetype"),
+    url("BERNIERDistressed-Regular.svg#BERNIERDistressed-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BronnRust-BoldFill';
+    src: url('BronnRust-BoldFill.eot');
+    src: url('BronnRust-BoldFill.eot?#iefix') format('embedded-opentype'),
+    url('BronnRust-BoldFill.woff2') format('woff2'),
+    url('BronnRust-BoldFill.woff') format('woff'),
+    url('BronnRust-BoldFill.ttf') format('truetype'),
+    url('BronnRust-BoldFill.svg#BronnRust-BoldFill') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dirty Headline Cyrillic';
+    src: url('subset-DirtyHeadlineCyrillic.eot');
+    src: url('subset-DirtyHeadlineCyrillic.eot?#iefix') format('embedded-opentype'),
+    url('subset-DirtyHeadlineCyrillic.woff') format('woff'),
+    url('subset-DirtyHeadlineCyrillic.ttf') format('truetype'),
+    url('subset-DirtyHeadlineCyrillic.svg#DirtyHeadlineCyrillic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,28 @@
+.parallax .layer .background._1 {
+  width: 296px;
+  height: 293px;
+  top: 0;
+  left: -296px;
+  background: url("/bitrix/templates/pronto/images/parallax-11.png") no-repeat center center; }
+.parallax .layer .background._2 {
+  width: 173px;
+  height: 136px;
+  left: -160px;
+  top: 1300px;
+  background: url("/bitrix/templates/pronto/images/parallax-12.png") no-repeat center center; }
+.parallax .layer .background._3 {
+  width: 198px;
+  height: 196px;
+  right: -198px;
+  top: 780px;
+  background: url("/bitrix/templates/pronto/images/parallax-13.png") no-repeat center center; }
+.parallax .layer .background._4 {
+  width: 452px;
+  height: 378px;
+  bottom: -160px;
+  right: -400px;
+  background: url("/bitrix/templates/pronto/images/parallax-14.png") no-repeat center center; }
+
+/*# sourceMappingURL=dessert.css.map */
+
+

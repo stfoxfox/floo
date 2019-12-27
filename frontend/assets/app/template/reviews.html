@@ -1,0 +1,105 @@
+<form action="">
+
+    <h2 class="small-text">Уважаемые гости!</h2>
+
+    <h2 class="small-text">
+        Для совершенствования качества обслуживания убедительно
+        просим вас указывать в отзыве конкретное кафе, которое вы
+        посетили. Или адрес и номер заказа, если вы воспользовались
+        услугами нашей доставки блюд. Спасибо!
+    </h2>
+
+    <div class="form-grid">
+        <div class="form-row">
+            <div class="form-cell">тема</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="text">
+                </div>
+            </div>
+        </div>
+        <div class="form-row"> <!--add class error-->
+            <div class="form-cell">регион</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="text">
+                    <!--div class="hint">Минимум 6 символов</div-->
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-cell">ресторан</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="text">
+                    <!--div class="hint">Минимум 6 символов</div-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="textarea-box">
+        <div class="form-label">ваш отзыв</div>
+        <div class="input-data">
+            <textarea></textarea>
+            <!--div class="hint">Вы ввели какую то хрень</div-->
+        </div>
+    </div>
+    <div class="m-b25">
+        <input type="file" class="file-input" id="reviews-file" data-input-file onchange="MainManager.getFileName(this)">
+        <label for="reviews-file">загрузить файл</label>
+        <ul class="ul-file" data-list-reviews-file></ul>
+    </div>
+
+    <h2 class="small-text">
+        Оставить отзыв может только зарегистрированный
+        пользователь.
+        <a href="#" onclick="MainManager.showModal('authorization'); return false;">Авторизуйтесь</a>,
+        пожалуйста, или пройдите
+        регистрацию прямо здесь:
+    </h2>
+
+    <div class="form-grid">
+        <div class="form-row">
+            <div class="form-cell">имя</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="text">
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-cell">телефон</div>
+            <div class="form-cell _txt-right">
+                <div class="input-data phone">
+                    <span>+7</span>
+                    <input type="text" tabindex="1">
+                    <!--div class="hint">Например +7 926 000 00 00</div-->
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-cell">e-mail</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="text">
+                    <!--div class="hint">Минимум 6 символов</div-->
+                </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-cell">пароль</div>
+            <div class="form-cell">
+                <div class="input-data">
+                    <input type="password">
+                    <!--div class="hint">Минимум 6 символов</div-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="_txt-center">
+        <button class="btn green m-t10" type="submit" tabindex="6">Отправить</button>
+    </div>
+
+</form>

@@ -1,0 +1,38 @@
+.parallax .layer .background._1 {
+  width: 382px;
+  height: 236px;
+  top: 850px;
+  right: -380px;
+  background: url("../img/parallax-6.png") no-repeat center center; }
+.parallax .layer .background._2 {
+  width: 280px;
+  height: 255px;
+  top: 1370px;
+  left: -280px;
+  background: url("../img/parallax-7.png") no-repeat center center; }
+.parallax .layer .background._3 {
+  width: 559px;
+  height: 449px;
+  bottom: -111px;
+  right: -460px;
+  background: url("../img/parallax-9.png") no-repeat center center; }
+.parallax .layer .background._4 {
+  width: 922px;
+  height: 796px;
+  top: 1800px;
+  right: -922px;
+  background: url("../img/parallax-8.png") no-repeat center center; }
+.parallax .layer .background._5 {
+  width: 424px;
+  height: 459px;
+  top: 2400px;
+  left: -424px;
+  background: url("../img/parallax-4.png") no-repeat center center; }
+.parallax .layer .background._6 {
+  width: 1025px;
+  height: 543px;
+  top: 30px;
+  left: -1025px;
+  background: url("../img/parallax-5.png") no-repeat center center; }
+
+/*# sourceMappingURL=parallax.css.map */

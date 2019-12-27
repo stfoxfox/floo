@@ -1,0 +1,27 @@
+.product-link{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.product-link img{
+    display: block;
+    margin-bottom: 20px;
+    width: 274px;
+    height: 274px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product-link .title {
+    position: relative;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: inline-block;
+    font: 30px/36px "Dirty Headline Cyrillic",sans-serif;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    transition: all 0.3s;
+}

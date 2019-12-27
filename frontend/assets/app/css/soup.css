@@ -1,0 +1,14 @@
+.parallax .layer .background._1 {
+  width: 424px;
+  height: 459px;
+  top: -60px;
+  left: -390px;
+  background: url("/bitrix/templates/pronto/images/parallax-4.png") no-repeat center center; }
+.parallax .layer .background._2 {
+  width: 640px;
+  height: 466px;
+  bottom: -160px;
+  right: -608px;
+  background: url("/bitrix/templates/pronto/images/parallax-10.png") no-repeat center center; }
+
+/*# sourceMappingURL=soup.css.map */

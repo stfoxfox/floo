@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "yii": "explorerExcludedFiles",
+    "yii_test": "explorerExcludedFiles",
+    "yii_test.bat": "explorerExcludedFiles",
+    ".idea": "explorerExcludedFiles",
+    "nbproject": "explorerExcludedFiles",
+    ".buildpath": "explorerExcludedFiles",
+    ".project": "explorerExcludedFiles",
+    ".settings": "explorerExcludedFiles",
+    "Thumbs.db": "explorerExcludedFiles",
+    "vendor": "explorerExcludedFiles",
+    "composer.phar": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles",
+    "phpunit.phar": "explorerExcludedFiles",
+    "phpunit.xml": "explorerExcludedFiles",
+    ".vagrant": "explorerExcludedFiles",
+    "common/uploads": "explorerExcludedFiles",
+    "backend/web/xml": "explorerExcludedFiles"
+  }
+}
